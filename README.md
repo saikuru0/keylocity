@@ -2,6 +2,8 @@
 
 > Project I made for React practice
 
+https://github.com/user-attachments/assets/75bcf948-5aa0-4356-8d77-5c58b686c2c4
+
 ## Setup
 
 Install the dependencies:
